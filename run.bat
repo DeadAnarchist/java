@@ -1,2 +1,2 @@
-@java -jar Main.jar
+@java -jar out\Main.jar
 @pause
